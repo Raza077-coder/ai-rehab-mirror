@@ -1,0 +1,1 @@
+"""AI Rehab Mirror backend package."""
